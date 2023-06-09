@@ -1,0 +1,115 @@
+*{
+  margin:0;
+  padding:0;
+  color: #f5f6f7;
+  font-family: Tahoma;
+  text-align:center;
+}
+
+html{
+    scroll-behaviour : smooth;
+}
+
+body {
+  width: 100%;
+  background-color: #1b1b32;
+  color: #f5f6f7;
+  font-family: Tahoma;
+  font-size: 16px;
+  text-align:center;
+}
+
+a {
+  text-decoration: none;
+}
+
+nav {
+  position:fixed;
+  display:flex;
+  align-items: center;
+  background: #bf3245;
+  width: 100%;
+  justify-content: right;
+  height: 10vh;
+  /* text-align: center; */
+}
+
+
+#navlist {
+  display:flex;
+  list-style-type: none;
+}
+
+#navlist li {
+  margin-left:10px;
+  margin-right:10px;
+}
+
+nav h1 {
+ margin-right: auto;
+ margin-left: 10px;
+}
+
+
+
+
+  header {
+    padding: 50px;
+    /* background-color: #f2f2f2; */
+ background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+  }
+
+
+  .grid-container img {
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+  }
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25% ;
+  padding:20px;
+  grid-column-gap: 10px;
+  grid-gap:10px;
+}
+
+.grid-item {
+  padding:10px;
+
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#one {
+  grid-row: 1/ span 1;
+  grid-column: 2/ span 1;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#two {
+  grid-row: 2/ span 1;
+  grid-column: 2/ span 1;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#three {
+  grid-row: 1/ span 2;
+  grid-column: 3/ span 1
+}
+
+
+.articles {
+  background-color: #45567D;
+}
+
+footer {
+  background-color: #303841
+;
+}
