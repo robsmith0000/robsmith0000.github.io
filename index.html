@@ -3,6 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <meta name="description" content="This is a trial site"/>
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Rob's Website</title>
     <link rel="stylesheet" href="styles.css">
   </head>
@@ -10,9 +12,12 @@
   <!--
       A navbar containing links
       an about me section
-      interesting articles arranged in a gird
+      interesting articles arranged in a gird --
+    --blog, uniwork, CV
       contact info at the bottom --
-    maybe change this to headers and footer
+    maybe change this to headers and footer --
+    potentailly use bootstrap for the design --
+    and how to set up developer environment
 
     -->
 <body>
@@ -20,14 +25,14 @@
       <nav>
         <h1> Rob's Website </h1>
 <ul id="navlist">
-  <li><a href="#"><h3>About</h3></a></li>
-  <li><a href="#"><h3>Work</h3></a></li>
+  <li><a href="#about"><h3>About</h3></a></li>
+  <li><a href="#work"><h3>Work</h3></a></li>
   <li><a href="#test"><h3>Contact</h3></a></li>
 </ul>
       </nav>
 
 
-<header>
+<header id="about">
       <div class="grid-container">
   <div class="grid-item" id="one"><h1> About me </h1></div>
   <div class="grid-item" id="two"><h3>Graduate from Durham Uni with a Master's in Physics and Maths interested in entrepreneurship </h3></div>
@@ -36,11 +41,13 @@
 </header>
 
 
-      <section class="articles">
-        <h2>Things I find interesting</h2>
-        TODO: Add link to cat photos --
-        <p>See more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
-        <a href="https://freecatphotoapp.com"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+      <section class="work" id="work">
+<div class="work-grid-container">
+  <div class="grid-item" ><a href="blog.html"><h1> Blog </h1></a></div>
+  <div class="grid-item" ><h1> Uni Work </h1></div>
+  <div class="grid-item" ><h1> CV </h1></div>
+
+  </div>
       </section>
 
       <footer id="test">

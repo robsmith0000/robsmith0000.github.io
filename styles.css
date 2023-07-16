@@ -5,7 +5,6 @@
   font-family: Tahoma;
   text-align:center;
 }
-
 html{
     scroll-behaviour : smooth;
 }
@@ -19,9 +18,6 @@ body {
   text-align:center;
 }
 
-a {
-  text-decoration: none;
-}
 
 nav {
   position:fixed;
@@ -40,6 +36,10 @@ nav {
   list-style-type: none;
 }
 
+ a {
+  text-decoration: none;
+}
+
 #navlist li {
   margin-left:10px;
   margin-right:10px;
@@ -49,7 +49,6 @@ nav h1 {
  margin-right: auto;
  margin-left: 10px;
 }
-
 
 
 
@@ -105,8 +104,16 @@ nav h1 {
 }
 
 
-.articles {
+.work {
   background-color: #45567D;
+}
+
+.work-grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding:20px;
+  grid-column-gap: 10px;
+  grid-gap:10px;
 }
 
 footer {
