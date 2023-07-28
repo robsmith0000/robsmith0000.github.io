@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Rob Smith Blog</title>
     <subtitle type="html">Rob Smith&#39;s personal blog</subtitle>
-    <updated>2023-07-28T16:35:05&#43;00:00</updated>
+    <updated>2023-07-28T16:39:57&#43;00:00</updated>
     <id>https://robsmith0000.github.io/</id>
     <link rel="alternate" type="text/html" href="https://robsmith0000.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://robsmith0000.github.io/atom.xml" />
@@ -16,4 +16,93 @@
             </author>
     
     <generator uri="https://gohugo.io/" version="0.115.4">Hugo</generator>
+        <entry>
+            <title type="text">Hello World</title>
+            <link rel="alternate" type="text/html" href="https://robsmith0000.github.io/posts/hello-world/" />
+            <id>https://robsmith0000.github.io/posts/hello-world/</id>
+            <updated>2023-07-28T16:39:40&#43;00:00</updated>
+            <published>2023-07-28T14:12:38&#43;00:00</published>
+            <author>
+                    <name>Rob Smith</name>
+                    <uri>https://robsmith0000.github.io/</uri>
+                    <email>robertjsmith0000@gmail.com</email>
+                    </author>
+            <summary type="html">This is my first post to the site What do I think about all of this This is bold text what is this doing what about this part &amp;lsquo;what does this do
+To block quote use &amp;gt; This is an input for a thing This is another one</summary>
+            
+                <content type="html">&lt;h1 id=&#34;this-is-my-first-post-to-the-site&#34;&gt;This is my first post to the site&lt;/h1&gt;
+&lt;p&gt;What do I think about all of this
+&lt;strong&gt;This is bold text&lt;/strong&gt;
+what is &lt;strong&gt;this&lt;/strong&gt; doing
+what about &lt;em&gt;this part&lt;/em&gt;
+&amp;lsquo;what does this do&lt;/p&gt;
+&lt;h1 id=&#34;to-block-quote-use-&#34;&gt;To block quote use &amp;gt;&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is an input for a thing
+This is another one&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;this should be indented further
+and this should be on the same line as before&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;h4 id=&#34;the-quarterly-results-look-great&#34;&gt;The quarterly results look great!&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Revenue was off the chart.&lt;/li&gt;
+&lt;li&gt;Profits were higher than ever.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Everything&lt;/em&gt; is going according to &lt;strong&gt;plan&lt;/strong&gt;.
+Here is a couple of lists to test formatting&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;This is the first item&lt;/li&gt;
+&lt;li&gt;This is the second item&lt;/li&gt;
+&lt;li&gt;tis is 3rd item
+&lt;ol&gt;
+&lt;li&gt;how does this deal with indentation&lt;/li&gt;
+&lt;li&gt;who knows&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Here is some unordered lists&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I would say org mode is so much easier to work with when using markdown&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;here is an indentation&lt;/li&gt;
+&lt;li&gt;I wonder how this is going to work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;to create a backslash
+I should try and create images and other links&lt;/p&gt;
+  &lt;html&gt;
+    &lt;head&gt;
+    &lt;/head&gt;
+  &lt;/html&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To Indent code I should use 4 spaces Although Im not sure how much code edits I will be doign in my blog&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;My favorite search engine is &lt;a href=&#34;https://duckduckgo.com&#34;&gt;Duck Duck Go&lt;/a&gt;.
+My favorite search engine is &lt;a href=&#34;https://duckduckgo.com&#34; title=&#34;The best search engine for privacy&#34;&gt;Duck Duck Go&lt;/a&gt;.
+&lt;a href=&#34;https://www.markdownguide.org&#34;&gt;https://www.markdownguide.org&lt;/a&gt;
+&lt;a href=&#34;mailto:fake@example.com&#34;&gt;fake@example.com&lt;/a&gt;
+&lt;img src=&#34;https://robsmith0000.github.io/san-juan-mountains.jpg&#34; alt=&#34;The San Juan Mountains are beautiful!&#34; title=&#34;San Juan Mountains&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Copy and paste emojis for Twitter, Facebook, Slack, Instagram, Snapchat, Slack, GitHub, Instagram, WhatsApp and more. 😃💁 People • 🐻🌻 Animals • 🍔🍹 Food • 🎷⚽️ Activities • 🚘🌇 Travel • 💡🎉 Objects • 💖🔣 Symbols • 🎌🏳️‍🌈 Flags.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
 </feed>
