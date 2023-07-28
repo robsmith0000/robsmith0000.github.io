@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">Rob Smith Blog</title>
+    <subtitle type="html">Rob Smith&#39;s personal blog</subtitle>
+    <updated>2023-07-28T16:27:03&#43;00:00</updated>
+    <id>https://example.com/</id>
+    <link rel="alternate" type="text/html" href="https://example.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    <author>
+            <name>Rob Smith</name>
+            <uri>https://example.com/</uri>
+            
+                <email>robertjsmith0000@gmail.com</email>
+            </author>
+    
+    <generator uri="https://gohugo.io/" version="0.115.4">Hugo</generator>
+</feed>
