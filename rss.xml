@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Rob Smith Blog</title>
-        <link>https://example.com/</link>
+        <link>https://robsmith0000.github.io/</link>
         <description>Rob Smith&#39;s personal blog</description>
         <generator>Hugo 0.115.4 https://gohugo.io/</generator>
         
@@ -21,9 +21,9 @@
             <webMaster>robertjsmith0000@gmail.com (Rob Smith)</webMaster>
         
         
-        <lastBuildDate>Fri, 28 Jul 2023 16:27:03 &#43;0000</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 16:35:05 &#43;0000</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://robsmith0000.github.io/rss.xml" />
         
         
     </channel>

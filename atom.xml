@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Rob Smith Blog</title>
     <subtitle type="html">Rob Smith&#39;s personal blog</subtitle>
-    <updated>2023-07-28T16:27:03&#43;00:00</updated>
-    <id>https://example.com/</id>
-    <link rel="alternate" type="text/html" href="https://example.com/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    <updated>2023-07-28T16:35:05&#43;00:00</updated>
+    <id>https://robsmith0000.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://robsmith0000.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://robsmith0000.github.io/atom.xml" />
     <author>
             <name>Rob Smith</name>
-            <uri>https://example.com/</uri>
+            <uri>https://robsmith0000.github.io/</uri>
             
                 <email>robertjsmith0000@gmail.com</email>
             </author>
