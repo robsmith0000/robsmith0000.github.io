@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Demo for hugo</title>
-    <link>http://example.org/</link>
+    <link>https://robsmith0000.github.io/</link>
     <description>Recent content on Demo for hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jul 2023 11:42:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jul 2023 11:42:00 +0000</lastBuildDate><atom:link href="https://robsmith0000.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second post</title>
-      <link>http://example.org/post/second/</link>
+      <link>https://robsmith0000.github.io/post/second/</link>
       <pubDate>Fri, 28 Jul 2023 11:42:00 +0000</pubDate>
       
-      <guid>http://example.org/post/second/</guid>
+      <guid>https://robsmith0000.github.io/post/second/</guid>
       <description>This is a new thing where I can put my contnet I can play around with different themes to figure out the ones I like</description>
     </item>
     
     <item>
       <title>First post</title>
-      <link>http://example.org/post/first/</link>
+      <link>https://robsmith0000.github.io/post/first/</link>
       <pubDate>Fri, 28 Jul 2023 11:38:44 +0000</pubDate>
       
-      <guid>http://example.org/post/first/</guid>
+      <guid>https://robsmith0000.github.io/post/first/</guid>
       <description>This is a heading 1 This is a heading 2 This is a paragraph 2</description>
     </item>
     
