@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Rob Smith Blog</title>
     <subtitle type="html">Rob Smith&#39;s personal blog</subtitle>
-    <updated>2023-07-29T10:48:11&#43;00:00</updated>
+    <updated>2023-07-29T10:53:53&#43;00:00</updated>
     <id>https://robsmith0000.github.io/</id>
     <link rel="alternate" type="text/html" href="https://robsmith0000.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://robsmith0000.github.io/atom.xml" />
@@ -16,6 +16,1436 @@
             </author>
     
     <generator uri="https://gohugo.io/" version="0.115.4">Hugo</generator>
+        <entry>
+            <title type="text">Academic Work</title>
+            <link rel="alternate" type="text/html" href="https://robsmith0000.github.io/posts/academic-work/" />
+            <id>https://robsmith0000.github.io/posts/academic-work/</id>
+            <updated>2023-07-29T10:53:48&#43;00:00</updated>
+            <published>2023-07-28T20:27:00&#43;00:00</published>
+            <author>
+                    <name>Rob Smith</name>
+                    <uri>https://robsmith0000.github.io/</uri>
+                    <email>robertjsmith0000@gmail.com</email>
+                    </author>
+            <summary type="html">Here is all my work produced at my time in Durham. All of these documents come from physics projects.
+L4 Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. L3 Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here.</summary>
+            
+                <content type="html">&lt;p&gt;Here is all my work produced at my time in Durham. All of these documents come from physics projects.&lt;/p&gt;
+&lt;h1 id=&#34;l4&#34;&gt;L4&lt;/h1&gt;
+&lt;p&gt;&lt;script type=&#34;text/javascript&#34; src= &#39;/js/pdf-js/build/pdf.js&#39;&gt;&lt;/script&gt;
+
+&lt;style&gt;
+  #embed-pdf-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 20vh;
+     
+  }
+  
+  .pdf-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  #the-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  
+  .pdf-loadingWrapper {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 350px;
+  }
+  
+  .pdf-loading {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 3px solid #d2d0d0;;
+    border-radius: 50%;
+    border-top-color: #383838;
+    animation: spin 1s ease-in-out infinite;
+    -webkit-animation: spin 1s ease-in-out infinite;
+  }
+  
+  
+  
+  
+  
+  #overlayText {
+    word-wrap: break-word;
+    display: grid;
+    justify-content: end;
+  }
+  
+  #overlayText a {
+    position: relative;
+    top: 10px;
+    right: 4px;
+    color: #000;
+    margin: auto;
+    background-color: #eeeeee;
+    padding: 0.3em 1em;
+    border: solid 2px;
+    border-radius: 12px;
+    border-color: #00000030;
+    text-decoration: none;
+  }
+  
+  #overlayText svg {
+    height: clamp(1em, 2vw, 1.4em);
+    width:  clamp(1em, 2vw, 1.4em);
+  }
+  
+  
+  
+  @keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  @-webkit-keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  &lt;/style&gt;&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-1a718370&#34;&gt;
+    &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-1a718370&#34;&gt;
+        &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-1a718370&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;overlayText&#34;&gt;
+      &lt;a href=&#34;https://robsmith0000.github.io/academic-work/L4project.pdf&#34; aria-label=&#34;Download&#34; download&gt;
+        &lt;svg aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 18 18&#34;&gt;
+            &lt;path d=&#34;M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z&#34; /&gt;
+        &lt;/svg&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;canvas class=&#34;pdf-canvas&#34; id=&#34;pdf-canvas-1a718370&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;pdf-paginator&#34; id=&#34;pdf-paginator-1a718370&#34;&gt;
+    &lt;button id=&#34;pdf-prev-1a718370&#34;&gt;Previous&lt;/button&gt;
+    &lt;button id=&#34;pdf-next-1a718370&#34;&gt;Next&lt;/button&gt; &amp;nbsp; &amp;nbsp;
+    &lt;span&gt;
+      &lt;span class=&#34;pdf-pagenum&#34; id=&#34;pdf-pagenum-1a718370&#34;&gt;&lt;/span&gt; / &lt;span class=&#34;pdf-pagecount&#34; id=&#34;pdf-pagecount-1a718370&#34;&gt;&lt;/span&gt;
+    &lt;/span&gt;
+    &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-1a718370&#34; href=&#34;https://robsmith0000.github.io/academic-work/L4project.pdf&#34;&gt;[pdf]&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;noscript&gt;
+View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-1a718370&#34; href=&#34;https://robsmith0000.github.io/academic-work/L4project.pdf&#34;&gt;here&lt;/a&gt;.
+&lt;/noscript&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    (function(){
+    var url = &#39;\/academic-work\/L4project.pdf&#39;;
+
+    var hidePaginator = &#34;false&#34; === &#34;true&#34;;
+    var hideLoader = &#34;&#34; === &#34;true&#34;;
+    var selectedPageNum = parseInt(&#34;&#34;) || 1;
+
+    
+    var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/robsmith0000.github.io\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById(&#39;pdf-canvas-1a718370&#39;),
+        ctx = canvas.getContext(&#39;2d&#39;),
+        paginator = document.getElementById(&#34;pdf-paginator-1a718370&#34;),
+        loadingWrapper = document.getElementById(&#39;pdf-loadingWrapper-1a718370&#39;);
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById(&#39;pdf-pagenum-1a718370&#39;).textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = &#39;none&#39;;
+      canvas.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = &#39;flex&#39;;
+      canvas.style.display = &#39;none&#39;;
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum &lt;= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-prev-1a718370&#39;).addEventListener(&#39;click&#39;, onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum &gt;= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-next-1a718370&#39;).addEventListener(&#39;click&#39;, onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById(&#39;pdf-pagecount-1a718370&#39;).textContent = numPages;
+
+      
+      if(pageNum &gt; numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+&lt;/script&gt;
+
+&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-6812e7da&#34;&gt;
+    &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-6812e7da&#34;&gt;
+        &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-6812e7da&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;overlayText&#34;&gt;
+      &lt;a href=&#34;https://robsmith0000.github.io/academic-work/L4seminar.pdf&#34; aria-label=&#34;Download&#34; download&gt;
+        &lt;svg aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 18 18&#34;&gt;
+            &lt;path d=&#34;M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z&#34; /&gt;
+        &lt;/svg&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;canvas class=&#34;pdf-canvas&#34; id=&#34;pdf-canvas-6812e7da&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;pdf-paginator&#34; id=&#34;pdf-paginator-6812e7da&#34;&gt;
+    &lt;button id=&#34;pdf-prev-6812e7da&#34;&gt;Previous&lt;/button&gt;
+    &lt;button id=&#34;pdf-next-6812e7da&#34;&gt;Next&lt;/button&gt; &amp;nbsp; &amp;nbsp;
+    &lt;span&gt;
+      &lt;span class=&#34;pdf-pagenum&#34; id=&#34;pdf-pagenum-6812e7da&#34;&gt;&lt;/span&gt; / &lt;span class=&#34;pdf-pagecount&#34; id=&#34;pdf-pagecount-6812e7da&#34;&gt;&lt;/span&gt;
+    &lt;/span&gt;
+    &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-6812e7da&#34; href=&#34;https://robsmith0000.github.io/academic-work/L4seminar.pdf&#34;&gt;[pdf]&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;noscript&gt;
+View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-6812e7da&#34; href=&#34;https://robsmith0000.github.io/academic-work/L4seminar.pdf&#34;&gt;here&lt;/a&gt;.
+&lt;/noscript&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    (function(){
+    var url = &#39;\/academic-work\/L4seminar.pdf&#39;;
+
+    var hidePaginator = &#34;false&#34; === &#34;true&#34;;
+    var hideLoader = &#34;&#34; === &#34;true&#34;;
+    var selectedPageNum = parseInt(&#34;&#34;) || 1;
+
+    
+    var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/robsmith0000.github.io\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById(&#39;pdf-canvas-6812e7da&#39;),
+        ctx = canvas.getContext(&#39;2d&#39;),
+        paginator = document.getElementById(&#34;pdf-paginator-6812e7da&#34;),
+        loadingWrapper = document.getElementById(&#39;pdf-loadingWrapper-6812e7da&#39;);
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById(&#39;pdf-pagenum-6812e7da&#39;).textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = &#39;none&#39;;
+      canvas.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = &#39;flex&#39;;
+      canvas.style.display = &#39;none&#39;;
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum &lt;= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-prev-6812e7da&#39;).addEventListener(&#39;click&#39;, onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum &gt;= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-next-6812e7da&#39;).addEventListener(&#39;click&#39;, onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById(&#39;pdf-pagecount-6812e7da&#39;).textContent = numPages;
+
+      
+      if(pageNum &gt; numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+&lt;/script&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;l3&#34;&gt;L3&lt;/h1&gt;
+&lt;p&gt;&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-b03faf24&#34;&gt;
+    &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-b03faf24&#34;&gt;
+        &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-b03faf24&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;overlayText&#34;&gt;
+      &lt;a href=&#34;https://robsmith0000.github.io/academic-work/L3%20computing%20project%20report.pdf&#34; aria-label=&#34;Download&#34; download&gt;
+        &lt;svg aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 18 18&#34;&gt;
+            &lt;path d=&#34;M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z&#34; /&gt;
+        &lt;/svg&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;canvas class=&#34;pdf-canvas&#34; id=&#34;pdf-canvas-b03faf24&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;pdf-paginator&#34; id=&#34;pdf-paginator-b03faf24&#34;&gt;
+    &lt;button id=&#34;pdf-prev-b03faf24&#34;&gt;Previous&lt;/button&gt;
+    &lt;button id=&#34;pdf-next-b03faf24&#34;&gt;Next&lt;/button&gt; &amp;nbsp; &amp;nbsp;
+    &lt;span&gt;
+      &lt;span class=&#34;pdf-pagenum&#34; id=&#34;pdf-pagenum-b03faf24&#34;&gt;&lt;/span&gt; / &lt;span class=&#34;pdf-pagecount&#34; id=&#34;pdf-pagecount-b03faf24&#34;&gt;&lt;/span&gt;
+    &lt;/span&gt;
+    &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-b03faf24&#34; href=&#34;https://robsmith0000.github.io/academic-work/L3%20computing%20project%20report.pdf&#34;&gt;[pdf]&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;noscript&gt;
+View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b03faf24&#34; href=&#34;https://robsmith0000.github.io/academic-work/L3%20computing%20project%20report.pdf&#34;&gt;here&lt;/a&gt;.
+&lt;/noscript&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    (function(){
+    var url = &#39;\/academic-work\/L3 computing project report.pdf&#39;;
+
+    var hidePaginator = &#34;false&#34; === &#34;true&#34;;
+    var hideLoader = &#34;&#34; === &#34;true&#34;;
+    var selectedPageNum = parseInt(&#34;&#34;) || 1;
+
+    
+    var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/robsmith0000.github.io\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById(&#39;pdf-canvas-b03faf24&#39;),
+        ctx = canvas.getContext(&#39;2d&#39;),
+        paginator = document.getElementById(&#34;pdf-paginator-b03faf24&#34;),
+        loadingWrapper = document.getElementById(&#39;pdf-loadingWrapper-b03faf24&#39;);
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById(&#39;pdf-pagenum-b03faf24&#39;).textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = &#39;none&#39;;
+      canvas.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = &#39;flex&#39;;
+      canvas.style.display = &#39;none&#39;;
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum &lt;= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-prev-b03faf24&#39;).addEventListener(&#39;click&#39;, onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum &gt;= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-next-b03faf24&#39;).addEventListener(&#39;click&#39;, onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById(&#39;pdf-pagecount-b03faf24&#39;).textContent = numPages;
+
+      
+      if(pageNum &gt; numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+&lt;/script&gt;
+
+&lt;img src=&#34;https://robsmith0000.github.io/academic-work/L3poster.png&#34; alt=&#34;L3 poster&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;l2&#34;&gt;L2&lt;/h1&gt;
+&lt;p&gt;&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-142d0c7a&#34;&gt;
+    &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-142d0c7a&#34;&gt;
+        &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-142d0c7a&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;overlayText&#34;&gt;
+      &lt;a href=&#34;https://robsmith0000.github.io/academic-work/L2RLI_OpticalRot_2.pdf&#34; aria-label=&#34;Download&#34; download&gt;
+        &lt;svg aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 18 18&#34;&gt;
+            &lt;path d=&#34;M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z&#34; /&gt;
+        &lt;/svg&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;canvas class=&#34;pdf-canvas&#34; id=&#34;pdf-canvas-142d0c7a&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;pdf-paginator&#34; id=&#34;pdf-paginator-142d0c7a&#34;&gt;
+    &lt;button id=&#34;pdf-prev-142d0c7a&#34;&gt;Previous&lt;/button&gt;
+    &lt;button id=&#34;pdf-next-142d0c7a&#34;&gt;Next&lt;/button&gt; &amp;nbsp; &amp;nbsp;
+    &lt;span&gt;
+      &lt;span class=&#34;pdf-pagenum&#34; id=&#34;pdf-pagenum-142d0c7a&#34;&gt;&lt;/span&gt; / &lt;span class=&#34;pdf-pagecount&#34; id=&#34;pdf-pagecount-142d0c7a&#34;&gt;&lt;/span&gt;
+    &lt;/span&gt;
+    &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-142d0c7a&#34; href=&#34;https://robsmith0000.github.io/academic-work/L2RLI_OpticalRot_2.pdf&#34;&gt;[pdf]&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;noscript&gt;
+View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-142d0c7a&#34; href=&#34;https://robsmith0000.github.io/academic-work/L2RLI_OpticalRot_2.pdf&#34;&gt;here&lt;/a&gt;.
+&lt;/noscript&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    (function(){
+    var url = &#39;\/academic-work\/L2RLI_OpticalRot_2.pdf&#39;;
+
+    var hidePaginator = &#34;false&#34; === &#34;true&#34;;
+    var hideLoader = &#34;&#34; === &#34;true&#34;;
+    var selectedPageNum = parseInt(&#34;&#34;) || 1;
+
+    
+    var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/robsmith0000.github.io\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById(&#39;pdf-canvas-142d0c7a&#39;),
+        ctx = canvas.getContext(&#39;2d&#39;),
+        paginator = document.getElementById(&#34;pdf-paginator-142d0c7a&#34;),
+        loadingWrapper = document.getElementById(&#39;pdf-loadingWrapper-142d0c7a&#39;);
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById(&#39;pdf-pagenum-142d0c7a&#39;).textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = &#39;none&#39;;
+      canvas.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = &#39;flex&#39;;
+      canvas.style.display = &#39;none&#39;;
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum &lt;= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-prev-142d0c7a&#39;).addEventListener(&#39;click&#39;, onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum &gt;= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-next-142d0c7a&#39;).addEventListener(&#39;click&#39;, onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById(&#39;pdf-pagecount-142d0c7a&#39;).textContent = numPages;
+
+      
+      if(pageNum &gt; numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+&lt;/script&gt;
+
+&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-7a5fa150&#34;&gt;
+    &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-7a5fa150&#34;&gt;
+        &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-7a5fa150&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;overlayText&#34;&gt;
+      &lt;a href=&#34;https://robsmith0000.github.io/academic-work/L2%20Viscosity_of_water_R_Smith_Final.pdf&#34; aria-label=&#34;Download&#34; download&gt;
+        &lt;svg aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 18 18&#34;&gt;
+            &lt;path d=&#34;M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z&#34; /&gt;
+        &lt;/svg&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;canvas class=&#34;pdf-canvas&#34; id=&#34;pdf-canvas-7a5fa150&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;pdf-paginator&#34; id=&#34;pdf-paginator-7a5fa150&#34;&gt;
+    &lt;button id=&#34;pdf-prev-7a5fa150&#34;&gt;Previous&lt;/button&gt;
+    &lt;button id=&#34;pdf-next-7a5fa150&#34;&gt;Next&lt;/button&gt; &amp;nbsp; &amp;nbsp;
+    &lt;span&gt;
+      &lt;span class=&#34;pdf-pagenum&#34; id=&#34;pdf-pagenum-7a5fa150&#34;&gt;&lt;/span&gt; / &lt;span class=&#34;pdf-pagecount&#34; id=&#34;pdf-pagecount-7a5fa150&#34;&gt;&lt;/span&gt;
+    &lt;/span&gt;
+    &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-7a5fa150&#34; href=&#34;https://robsmith0000.github.io/academic-work/L2%20Viscosity_of_water_R_Smith_Final.pdf&#34;&gt;[pdf]&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;noscript&gt;
+View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-7a5fa150&#34; href=&#34;https://robsmith0000.github.io/academic-work/L2%20Viscosity_of_water_R_Smith_Final.pdf&#34;&gt;here&lt;/a&gt;.
+&lt;/noscript&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    (function(){
+    var url = &#39;\/academic-work\/L2 Viscosity_of_water_R_Smith_Final.pdf&#39;;
+
+    var hidePaginator = &#34;false&#34; === &#34;true&#34;;
+    var hideLoader = &#34;&#34; === &#34;true&#34;;
+    var selectedPageNum = parseInt(&#34;&#34;) || 1;
+
+    
+    var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/robsmith0000.github.io\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById(&#39;pdf-canvas-7a5fa150&#39;),
+        ctx = canvas.getContext(&#39;2d&#39;),
+        paginator = document.getElementById(&#34;pdf-paginator-7a5fa150&#34;),
+        loadingWrapper = document.getElementById(&#39;pdf-loadingWrapper-7a5fa150&#39;);
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById(&#39;pdf-pagenum-7a5fa150&#39;).textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = &#39;none&#39;;
+      canvas.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = &#39;flex&#39;;
+      canvas.style.display = &#39;none&#39;;
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum &lt;= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-prev-7a5fa150&#39;).addEventListener(&#39;click&#39;, onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum &gt;= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-next-7a5fa150&#39;).addEventListener(&#39;click&#39;, onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById(&#39;pdf-pagecount-7a5fa150&#39;).textContent = numPages;
+
+      
+      if(pageNum &gt; numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+&lt;/script&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;l1&#34;&gt;L1&lt;/h1&gt;
+&lt;p&gt;&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-2ffa06e0&#34;&gt;
+    &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-2ffa06e0&#34;&gt;
+        &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-2ffa06e0&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;overlayText&#34;&gt;
+      &lt;a href=&#34;https://robsmith0000.github.io/academic-work/L1%20Team_1__flying_trees.pdf&#34; aria-label=&#34;Download&#34; download&gt;
+        &lt;svg aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 18 18&#34;&gt;
+            &lt;path d=&#34;M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z&#34; /&gt;
+        &lt;/svg&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;canvas class=&#34;pdf-canvas&#34; id=&#34;pdf-canvas-2ffa06e0&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;pdf-paginator&#34; id=&#34;pdf-paginator-2ffa06e0&#34;&gt;
+    &lt;button id=&#34;pdf-prev-2ffa06e0&#34;&gt;Previous&lt;/button&gt;
+    &lt;button id=&#34;pdf-next-2ffa06e0&#34;&gt;Next&lt;/button&gt; &amp;nbsp; &amp;nbsp;
+    &lt;span&gt;
+      &lt;span class=&#34;pdf-pagenum&#34; id=&#34;pdf-pagenum-2ffa06e0&#34;&gt;&lt;/span&gt; / &lt;span class=&#34;pdf-pagecount&#34; id=&#34;pdf-pagecount-2ffa06e0&#34;&gt;&lt;/span&gt;
+    &lt;/span&gt;
+    &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-2ffa06e0&#34; href=&#34;https://robsmith0000.github.io/academic-work/L1%20Team_1__flying_trees.pdf&#34;&gt;[pdf]&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;noscript&gt;
+View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-2ffa06e0&#34; href=&#34;https://robsmith0000.github.io/academic-work/L1%20Team_1__flying_trees.pdf&#34;&gt;here&lt;/a&gt;.
+&lt;/noscript&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    (function(){
+    var url = &#39;\/academic-work\/L1 Team_1__flying_trees.pdf&#39;;
+
+    var hidePaginator = &#34;false&#34; === &#34;true&#34;;
+    var hideLoader = &#34;&#34; === &#34;true&#34;;
+    var selectedPageNum = parseInt(&#34;&#34;) || 1;
+
+    
+    var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/robsmith0000.github.io\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById(&#39;pdf-canvas-2ffa06e0&#39;),
+        ctx = canvas.getContext(&#39;2d&#39;),
+        paginator = document.getElementById(&#34;pdf-paginator-2ffa06e0&#34;),
+        loadingWrapper = document.getElementById(&#39;pdf-loadingWrapper-2ffa06e0&#39;);
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById(&#39;pdf-pagenum-2ffa06e0&#39;).textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = &#39;none&#39;;
+      canvas.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = &#39;flex&#39;;
+      canvas.style.display = &#39;none&#39;;
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum &lt;= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-prev-2ffa06e0&#39;).addEventListener(&#39;click&#39;, onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum &gt;= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-next-2ffa06e0&#39;).addEventListener(&#39;click&#39;, onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById(&#39;pdf-pagecount-2ffa06e0&#39;).textContent = numPages;
+
+      
+      if(pageNum &gt; numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+&lt;/script&gt;
+
+&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-6557efe6&#34;&gt;
+    &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-6557efe6&#34;&gt;
+        &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-6557efe6&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;overlayText&#34;&gt;
+      &lt;a href=&#34;https://robsmith0000.github.io/academic-work/L1%20Planks%20constant.pdf&#34; aria-label=&#34;Download&#34; download&gt;
+        &lt;svg aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 18 18&#34;&gt;
+            &lt;path d=&#34;M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z&#34; /&gt;
+        &lt;/svg&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;canvas class=&#34;pdf-canvas&#34; id=&#34;pdf-canvas-6557efe6&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;pdf-paginator&#34; id=&#34;pdf-paginator-6557efe6&#34;&gt;
+    &lt;button id=&#34;pdf-prev-6557efe6&#34;&gt;Previous&lt;/button&gt;
+    &lt;button id=&#34;pdf-next-6557efe6&#34;&gt;Next&lt;/button&gt; &amp;nbsp; &amp;nbsp;
+    &lt;span&gt;
+      &lt;span class=&#34;pdf-pagenum&#34; id=&#34;pdf-pagenum-6557efe6&#34;&gt;&lt;/span&gt; / &lt;span class=&#34;pdf-pagecount&#34; id=&#34;pdf-pagecount-6557efe6&#34;&gt;&lt;/span&gt;
+    &lt;/span&gt;
+    &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-6557efe6&#34; href=&#34;https://robsmith0000.github.io/academic-work/L1%20Planks%20constant.pdf&#34;&gt;[pdf]&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;noscript&gt;
+View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-6557efe6&#34; href=&#34;https://robsmith0000.github.io/academic-work/L1%20Planks%20constant.pdf&#34;&gt;here&lt;/a&gt;.
+&lt;/noscript&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    (function(){
+    var url = &#39;\/academic-work\/L1 Planks constant.pdf&#39;;
+
+    var hidePaginator = &#34;false&#34; === &#34;true&#34;;
+    var hideLoader = &#34;&#34; === &#34;true&#34;;
+    var selectedPageNum = parseInt(&#34;&#34;) || 1;
+
+    
+    var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/robsmith0000.github.io\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById(&#39;pdf-canvas-6557efe6&#39;),
+        ctx = canvas.getContext(&#39;2d&#39;),
+        paginator = document.getElementById(&#34;pdf-paginator-6557efe6&#34;),
+        loadingWrapper = document.getElementById(&#39;pdf-loadingWrapper-6557efe6&#39;);
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById(&#39;pdf-pagenum-6557efe6&#39;).textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = &#39;none&#39;;
+      canvas.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = &#39;flex&#39;;
+      canvas.style.display = &#39;none&#39;;
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum &lt;= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-prev-6557efe6&#39;).addEventListener(&#39;click&#39;, onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum &gt;= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-next-6557efe6&#39;).addEventListener(&#39;click&#39;, onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById(&#39;pdf-pagecount-6557efe6&#39;).textContent = numPages;
+
+      
+      if(pageNum &gt; numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+&lt;/script&gt;
+
+&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-218890a5&#34;&gt;
+    &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-218890a5&#34;&gt;
+        &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-218890a5&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;overlayText&#34;&gt;
+      &lt;a href=&#34;https://robsmith0000.github.io/academic-work/L1%20Exploring%20Interferometry.pdf&#34; aria-label=&#34;Download&#34; download&gt;
+        &lt;svg aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 18 18&#34;&gt;
+            &lt;path d=&#34;M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z&#34; /&gt;
+        &lt;/svg&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;canvas class=&#34;pdf-canvas&#34; id=&#34;pdf-canvas-218890a5&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;pdf-paginator&#34; id=&#34;pdf-paginator-218890a5&#34;&gt;
+    &lt;button id=&#34;pdf-prev-218890a5&#34;&gt;Previous&lt;/button&gt;
+    &lt;button id=&#34;pdf-next-218890a5&#34;&gt;Next&lt;/button&gt; &amp;nbsp; &amp;nbsp;
+    &lt;span&gt;
+      &lt;span class=&#34;pdf-pagenum&#34; id=&#34;pdf-pagenum-218890a5&#34;&gt;&lt;/span&gt; / &lt;span class=&#34;pdf-pagecount&#34; id=&#34;pdf-pagecount-218890a5&#34;&gt;&lt;/span&gt;
+    &lt;/span&gt;
+    &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-218890a5&#34; href=&#34;https://robsmith0000.github.io/academic-work/L1%20Exploring%20Interferometry.pdf&#34;&gt;[pdf]&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;noscript&gt;
+View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-218890a5&#34; href=&#34;https://robsmith0000.github.io/academic-work/L1%20Exploring%20Interferometry.pdf&#34;&gt;here&lt;/a&gt;.
+&lt;/noscript&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    (function(){
+    var url = &#39;\/academic-work\/L1 Exploring Interferometry.pdf&#39;;
+
+    var hidePaginator = &#34;false&#34; === &#34;true&#34;;
+    var hideLoader = &#34;&#34; === &#34;true&#34;;
+    var selectedPageNum = parseInt(&#34;&#34;) || 1;
+
+    
+    var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/robsmith0000.github.io\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById(&#39;pdf-canvas-218890a5&#39;),
+        ctx = canvas.getContext(&#39;2d&#39;),
+        paginator = document.getElementById(&#34;pdf-paginator-218890a5&#34;),
+        loadingWrapper = document.getElementById(&#39;pdf-loadingWrapper-218890a5&#39;);
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById(&#39;pdf-pagenum-218890a5&#39;).textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = &#39;none&#39;;
+      canvas.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = &#39;flex&#39;;
+      canvas.style.display = &#39;none&#39;;
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum &lt;= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-prev-218890a5&#39;).addEventListener(&#39;click&#39;, onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum &gt;= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-next-218890a5&#39;).addEventListener(&#39;click&#39;, onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById(&#39;pdf-pagecount-218890a5&#39;).textContent = numPages;
+
+      
+      if(pageNum &gt; numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+&lt;/script&gt;
+&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Hello World</title>
             <link rel="alternate" type="text/html" href="https://robsmith0000.github.io/posts/hello-world/" />
