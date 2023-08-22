@@ -10,7 +10,7 @@
         <title>Rob Smith Blog</title>
         <link>https://robsmith0000.github.io/</link>
         <description>Rob Smith&#39;s personal blog</description>
-        <generator>Hugo 0.115.4 https://gohugo.io/</generator>
+        <generator>Hugo 0.116.1 https://gohugo.io/</generator>
         
             <language>en</language>
         
@@ -21,10 +21,35 @@
             <webMaster>robertjsmith0000@gmail.com (Rob Smith)</webMaster>
         
         
-        <lastBuildDate>Sat, 29 Jul 2023 10:53:53 &#43;0000</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 16:12:56 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://robsmith0000.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Contact Me</title>
+                <link>https://robsmith0000.github.io/posts/cv/</link>
+                <guid isPermaLink="true">https://robsmith0000.github.io/posts/cv/</guid>
+                <pubDate>Sat, 29 Jul 2023 11:01:19 &#43;0000</pubDate>
+                
+                    <author>robertjsmith0000@gmail.com (Rob Smith)</author>
+                
+                
+                
+                    <description>&lt;h1 id=&#34;thingies&#34;&gt;Thingies&lt;/h1&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Academic Work</title>
