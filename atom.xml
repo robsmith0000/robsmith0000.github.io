@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Rob Smith Blog</title>
     <subtitle type="html">Rob Smith&#39;s personal blog</subtitle>
-    <updated>2023-08-22T16:12:56&#43;00:00</updated>
+    <updated>2023-08-22T16:58:44&#43;00:00</updated>
     <id>https://robsmith0000.github.io/</id>
     <link rel="alternate" type="text/html" href="https://robsmith0000.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://robsmith0000.github.io/atom.xml" />
@@ -17,19 +17,20 @@
     
     <generator uri="https://gohugo.io/" version="0.116.1">Hugo</generator>
         <entry>
-            <title type="text">Contact Me</title>
+            <title type="text">CV</title>
             <link rel="alternate" type="text/html" href="https://robsmith0000.github.io/posts/cv/" />
             <id>https://robsmith0000.github.io/posts/cv/</id>
-            <updated>2023-07-29T11:05:35&#43;00:00</updated>
+            <updated>2023-08-22T16:39:33&#43;00:00</updated>
             <published>2023-07-29T11:01:19&#43;00:00</published>
             <author>
                     <name>Rob Smith</name>
                     <uri>https://robsmith0000.github.io/</uri>
                     <email>robertjsmith0000@gmail.com</email>
                     </author>
-            <summary type="html">Thingies </summary>
+            <summary type="html">Important The published website replaces this webpage with my CV</summary>
             
-                <content type="html">&lt;h1 id=&#34;thingies&#34;&gt;Thingies&lt;/h1&gt;
+                <content type="html">&lt;h1 id=&#34;important&#34;&gt;Important&lt;/h1&gt;
+&lt;p&gt;The published website replaces this webpage with my CV&lt;/p&gt;
 </content>
             
             
