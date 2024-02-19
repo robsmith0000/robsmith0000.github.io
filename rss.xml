@@ -10,7 +10,7 @@
         <title>Rob Smith Blog</title>
         <link>https://robsmith0000.github.io/</link>
         <description>Rob Smith&#39;s personal blog</description>
-        <generator>Hugo 0.116.1 https://gohugo.io/</generator>
+        <generator>Hugo 0.122.0 https://gohugo.io/</generator>
         
             <language>en</language>
         
@@ -21,7 +21,7 @@
             <webMaster>robertjsmith0000@gmail.com (Rob Smith)</webMaster>
         
         
-        <lastBuildDate>Sun, 03 Sep 2023 15:52:15 &#43;0000</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 22:19:12 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://robsmith0000.github.io/rss.xml" />
         
